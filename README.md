@@ -1,5 +1,5 @@
 # trim_safetensors
-Trim your metadata header of your safetensors
+Trim metadata header of your safetensors
 
 Safetensors as described in [huggingface safetensors page](https://huggingface.co/docs/safetensors/index) consists of a header and content.
 
